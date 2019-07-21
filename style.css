@@ -1,0 +1,16 @@
+.btn:focus {
+    outline: none !important;
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+  }
+.output-content{
+   display: inline-flex;
+}
+
+#items-list-container{
+   margin:16px;
+}
+
+#btn-merge{
+   margin: 16px;
+}
